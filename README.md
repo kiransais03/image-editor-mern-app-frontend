@@ -4,7 +4,7 @@
 
 ### Dev Tools : VS Code,Github,Vercel
 
-(Note : Dear Sir/Madam, Due to some problem I have not completed the project properly,writing for your information)
+(Note : Dear Sir/Madam, Aplogies, Due to some problem I have not completed the project properly)
 
 ### Steps Required To Run Applications :
 
